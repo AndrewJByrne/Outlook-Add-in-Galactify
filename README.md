@@ -35,6 +35,7 @@ Thanks Craig for making your work available and saving me tons of time! I'm glad
 * [npm](https://www.npmjs.com/)
 * [Bower](http://bower.io/)
 * [Gulp](http://gulpjs.com/)
+* Outlook 2016 or any version of Outlook that supports the [1.3 Mailbox requirement set](https://dev.outlook.com/reference/add-ins/tutorial-api-requirement-sets.html).  This sample does a requirement check to see if it is running in a supported host.
 
 <a name="install"></a>
 ## How to install
