@@ -30,7 +30,7 @@
     // and may not be available on every Outlook client.
     // For more information, please see Understanding API Requirement Sets at
     // https://dev.outlook.com/reference/add-ins/tutorial-api-requirement-sets.html
-    if (Office.context.mailbox.item.body.getAsync() !== undefined) {
+    if (Office.context.mailbox.item.body.getAsync !== undefined) {
         Office.context.mailbox.item.body.getAsync('text',function (asyncResult) {
             $('#body').text(asyncResult.value);
         });

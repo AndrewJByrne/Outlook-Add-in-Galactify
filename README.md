@@ -1,3 +1,5 @@
+![](/readme-images/banner.png)
+
 # Outlook Add-in: Read your current email in a galactic, scrolling view
 
 **Table of contents**
